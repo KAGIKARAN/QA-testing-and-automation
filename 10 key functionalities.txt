@@ -1,0 +1,12 @@
+10 key functionalities
+
+User Registration
+User Login
+Product Search
+Product Details Page
+Add to Cart
+Checkout Process
+Order History
+User Profile Management
+Product Reviews and Ratings
+Customer Support Contact
